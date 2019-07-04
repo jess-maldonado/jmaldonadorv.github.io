@@ -1,0 +1,3 @@
+[submodule "CodingCurriculum"]
+	path = CodingCurriculum
+	url = https://github.com/jmaldonadorv/CodingCurriculum.git
